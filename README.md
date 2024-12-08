@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on a website for a dental care hospital using svelte<br>
+🔭 I'm currently working as a full-stack developer at a start-up<br>
 👯 I’m looking to collaborate on web development with react, express, firebase, or laravel and data science projects<br>
 🤝 I’m looking for help with getting a consistent job with data science<br>
 🌱 I’m currently learning backend development with springboot and gdscript<br>
