@@ -1,9 +1,9 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I'm currently working as a full-stack developer at a start-up<br>
-👯 I’m looking to collaborate on web development with react, express, firebase, or laravel and data science projects<br>
-🤝 I’m looking for help with getting a consistent job with data science<br>
-🌱 I’m currently learning backend development with springboot and gdscript<br>
+🔭 I'm currently working as a Technical Lead at a start-up<br>
+👯 I’m looking to collaborate on opensource backend, tooling, and data science projects<br>
+🤝 I’m looking for help with my Game Development Experience<br>
+🌱 I’m currently learning game development gdscript<br>
 💬 Ask me about anything related to me and my skillset<br>
 ⚡ Fun fact, I'm a huge warriors and 49ers fan
 
